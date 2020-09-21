@@ -3,7 +3,7 @@ I'm Vitoria, CS student. Currently studying Angular and being Management Advisor
 
 🔹 I’m currently learning Angular
 <p>
-<a target="_blank" href=" https://www.linkedin.com/in/vit%C3%B3ria-santos-2ab261180/">
+<a target="_blank" href="https://www.linkedin.com/in/vit%C3%B3ria-santos-2ab261180/">
     <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
    </a> Vitoria Santos 
 
