@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Vitoria, CS student. Currently studying Angular and being Management Advisor to the IA team of CEFET-RJ IEEE branch. 
+I'm Vitoria, CS student. Currently studying Angular and being Management Advisor to the IA team of CEFET-RJ IEEE student branch. 
 
 🔹 I’m currently learning Angular
 
