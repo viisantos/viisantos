@@ -1,7 +1,6 @@
 ### Hi there 👋
-I'm Vitoria, CS student. Currently studying Laravel.
+I'm Vitoria, CS graduated. Currently Studing Product Management.
 
-🔹 I’m currently learning Laravel
 <br>
 🔹 I’m interest by Front end, Product and Management and Machine Learning 😃
 
